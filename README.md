@@ -26,7 +26,7 @@ To motivate, it was set up as a game, where every 25 minutes you gain experience
 
 ## 💻 Demonstration
 
-- You can check the project running here :
+- You can check the project running here : https://move-it-woad.vercel.app/
 
 ## ⚙ Prerequisites
 
